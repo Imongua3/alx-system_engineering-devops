@@ -1,5 +1,5 @@
 #!/bin/bash
-mv /tmp/betty/tmp/my_fisrt_directory/
+mv /tmp/betty/tmp/my_fisrt_directory
 
 
 
