@@ -1,1 +1,1 @@
-Permitting everybody
+Giving permission to others
