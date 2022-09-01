@@ -1,1 +1,1 @@
-Bye bye betty
+Just deleted my directory
