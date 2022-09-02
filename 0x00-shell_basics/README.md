@@ -1,1 +1,1 @@
-Magic file
+Star wall
