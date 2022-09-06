@@ -1,2 +1,2 @@
 #!/bin/bash
-xporto DEATH=4, LOVE=3 $((DEATH**LOVE))    
+echo $(($DEATH**$LOVE))     
